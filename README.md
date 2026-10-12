@@ -24,53 +24,7 @@ RoadGuard AI is a machine learning project that predicts potential road accident
 * JavaScript
 * Machine Learning
 
-## 📂 Project Structure
 
-```text
-RoadGuard-AI/
-├── app.py
-├── accident_data.csv
-├── requirements.txt
-├── templates/
-│   └── index.html
-└── static/
-    ├── style.css
-    └── script.js
-```
-
-## ⚙️ Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/RoadGuard-AI.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd RoadGuard-AI
-```
-
-### 3. Install dependencies
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### 4. Run the application
-
-```bash
-python app.py
-```
-
-### 5. Open in your browser
-
-Visit:
-
-```text
-http://127.0.0.1:5000
-```
 
 ## 🧠 How It Works
 
@@ -89,20 +43,6 @@ Evaluation results depend on the dataset and the training/test split.
 
 The objective is to explore how machine learning can analyze road and traffic conditions to estimate accident risk and support road-safety awareness.
 
-## 🔮 Future Improvements
 
-* Use larger, real-world road accident datasets.
-* Include additional factors such as vehicle speed and time of day.
-* Improve model performance through comparison with other algorithms.
-* Deploy the application online.
-* Integrate real-time traffic and weather data.
-
-## ⚠️ Disclaimer
-
-This project is an educational machine learning prototype. Its predictions are not a verified measure of real-world accident probability and should not be used as the sole basis for road-safety decisions.
-
-GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-
----
 
 ⭐ If you find this project interesting, consider giving the repository a star!
