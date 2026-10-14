@@ -6,7 +6,7 @@ RoadGuard AI is a machine learning project that predicts potential road accident
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white)](https://ai-roadguard.vercel.app/)
 
-Visit the live application: https://ai-roadguard.vercel.app/
+Visit the live application: https://ai-roadguard.vercel.app/ 
 
 ## ✨ Features
 
