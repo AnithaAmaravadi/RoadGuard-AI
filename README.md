@@ -9,7 +9,7 @@ RoadGuard AI is a machine learning project that predicts potential road accident
 Visit the live application: https://ai-roadguard.vercel.app/ 
 
 ## ✨ Features
-
+ 
 * 🚦 **Accident Risk Prediction** – Predicts Low, Medium, or High risk.
 * 🌦️ **Weather Analysis** – Considers different weather conditions.
 * 🛣️ **Road Condition Analysis** – Evaluates dry, wet, and slippery roads.
